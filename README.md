@@ -1,2 +1,5 @@
-# memo-es6-ts
-Memo for ES6 / TS
+# Memo for ES6 and TS
+
+Immutable string
+
+Spread (shit) operator [https://dmitripavlutin.com/object-rest-spread-properties-javascript/]
